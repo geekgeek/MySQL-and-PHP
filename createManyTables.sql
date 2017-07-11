@@ -1,0 +1,33 @@
+
+/* 
+CREATE DATABASE mainDB1;
+
+USE mainDB1
+*/
+
+CREATE TABLE car 
+(
+id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, stilling VARCHAR(40), 
+brandName VARCHAR(40), 
+modelName VARCHAR(40), 
+modelNumber INT, 
+priceTag FLOAT
+);
+
+
+CREATE TABLE boat 
+(
+id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, stilling VARCHAR(40), 
+row1 VARCHAR(100), 
+row2 VARCHAR(100)
+);
+
+
+CREATE TABLE airplane 
+(
+id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+FirstName VARCHAR(100), 
+LastName VARCHAR(100)
+);
+
+

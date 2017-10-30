@@ -20,5 +20,12 @@
         </explanation>
         <keyset>altgr + 2</keyset>
     </note>
-    
+   
+    <note>
+        <explanation>
+           copy line 22 - 28 til current line 
+        </explanation>
+        <keyset>co 22,28 .</keyset>
+    </note>
+
 </vimnotes>

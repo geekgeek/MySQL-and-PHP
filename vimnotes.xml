@@ -20,4 +20,10 @@
         <keyset>co 22,28 .</keyset>
     </note>
 
+    <note>
+        <explanation>
+		go into vim configuration file
+        </explanation>
+        <keyset>:e $HOME/.vimrc  </keyset>
+    </note>
 </vimnotes>

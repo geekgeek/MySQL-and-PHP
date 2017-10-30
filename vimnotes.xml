@@ -26,4 +26,18 @@
         </explanation>
         <keyset>:e $HOME/.vimrc  </keyset>
     </note>
+    
+    <note>
+        <explanation>
+       		search word and go to next word 
+	</explanation>
+        <keyset>/word ENTER n  </keyset>
+    </note>
+
+    <note>
+        <explanation>
+       		search word and go to previous word 
+	</explanation>
+        <keyset>/word ENTER N  </keyset>
+    </note>
 </vimnotes>

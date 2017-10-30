@@ -6,5 +6,19 @@
         <keyset>
             norm @q
         </keyset>
+    </note>    
+    <note>
+        <explanation>
+            run macro on line 4
+        </explanation>
+        <keyset>4 norm @q</keyset>
     </note>
+
+    <note>
+        <explanation>
+            run macro on current line
+        </explanation>
+        <keyset>altgr + 2</keyset>
+    </note>
+    
 </vimnotes>

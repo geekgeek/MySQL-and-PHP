@@ -1,0 +1,10 @@
+<vimnotes>
+    <note>
+        <explanation>
+            run macro
+        </explanation>
+        <keyset>
+            norm @q
+        </keyset>
+    </note>
+</vimnotes>

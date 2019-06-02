@@ -20,3 +20,6 @@ other:yepp
 hostname -I
 
 sudo apt-get install firefox
+
+#visual studio code fix
+sudo sed -i 's/BIG-REQUESTS/_IG-REQUESTS/' /usr/lib/x86_64-linux-gnu/libxcb.so.1

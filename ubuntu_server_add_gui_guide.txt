@@ -1,4 +1,6 @@
 #works ubuntu 16
+# for lubuntu: 
+## sudo apt install --no-install-recommends lubuntu-core
 
 #################################
 sudo apt-get update -y
